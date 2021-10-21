@@ -1,0 +1,82 @@
+body {
+  background-color: silver;
+}
+
+ol {
+  list-style: circle;
+}
+
+h2 {
+  color: purple;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 50px;
+  text-align: center;
+}
+
+h4 {
+  background-color: red;
+  margin: 80px;
+}
+
+.one {
+  color: purple;
+}
+
+.two {
+  color: gold;
+  padding: 20px;
+}
+
+#womenimg {
+  height: 20%;
+  width: 20%;
+}
+
+#aboutMeBodyTag {
+  background-image: url("women.jpg");
+  background-repeat: no-repeat;
+}
+
+.menu {
+  background-color: blue;
+}
+
+.menu a{
+  display: block;
+  color: white;
+  float: left;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.menu a:hover{
+  background-color: grey;
+}
+
+.space {
+  background-color: purple;
+  padding: 80px 30px 50px 100px;
+  border: 20px solid blue;
+  margin: 50px;
+}
+
+.button {
+  display: square;
+  height: 90%;
+  border: 4px solid red;
+  background-color: purple;
+  font-style: italic;
+  font-size: 45px
+}
+
+.video {
+  border: 6px dotted red;
+  margin-right: 300px;
+  margin-left: 500px;
+}
+
+.applicationform {
+display: block;
+font-style: italic;
+margin-left: 400px;
+}
